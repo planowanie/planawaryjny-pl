@@ -1,4 +1,5 @@
-## Plan Awaryjny
+# [Plan Awaryjny](https://www.planawaryjny.pl/)
+
 .. na wszelki wypadek
 
 
